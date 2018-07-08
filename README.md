@@ -1,2 +1,2 @@
-# go-simple-api
-Go Simple API  | Golang - PosgreSQL - Redis
+# Go Simple API
+Golang - PosgreSQL - Redis
